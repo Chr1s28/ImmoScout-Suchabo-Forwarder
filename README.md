@@ -6,5 +6,5 @@ The emails need to have a rule in gmail that automatically adds the 'immoscout' 
 See secret_example.py for the required configs. 
 
 ## Requirements
-requests
+requests<br>
 discord-webhook
